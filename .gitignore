@@ -30,6 +30,7 @@ packages/
 Thumbs.db
 .idea
 
+
 # Optional: Local configuration secrets
 # (Uncomment the line below if you keep real passwords in your development settings)
 # appsettings.Development.json
