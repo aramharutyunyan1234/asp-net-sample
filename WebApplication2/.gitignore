@@ -1,0 +1,34 @@
+﻿# Build outputs
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ex]e/
+
+# Visual Studio / Rider / VS Code cache & user settings
+.vs/
+.idea/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nuget.dgspec.json
+project.lock.json
+project.fragment.lock.json
+packages/
+*.nuget.props
+*.nuget.targets
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Local configuration secrets
+# (Uncomment the line below if you keep real passwords in your development settings)
+# appsettings.Development.json
